@@ -1,0 +1,25 @@
+@charset "utf-8";
+
+body {
+    background-color: rgb(196, 115, 115);
+}
+
+#cabeceraweb {
+    background-color: rgb(70, 79, 160);
+}
+
+#navegacionprincipal {
+    background-color: burlywood;    
+}
+
+#barralateral {
+    background-color: cornflowerblue;
+}
+
+#contenidoprincipal{
+    background-color: darkgrey;
+}
+
+#pieprincipal {
+    background-color: darkseagreen;
+}
