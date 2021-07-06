@@ -14,12 +14,24 @@ body {
 
 #barralateral {
     background-color: cornflowerblue;
+    float:left;
+    height: 150px;
 }
 
 #contenidoprincipal{
     background-color: darkgrey;
+    margin-left: 235px;
+    padding-left: 25px;
+    padding-top: 15px;
 }
 
 #pieprincipal {
     background-color: darkseagreen;
+    clear:both;
+    margin-top: 20px;
+}
+
+li {
+    background-color: rgb(130, 207, 178);
+    display:inline;
 }
